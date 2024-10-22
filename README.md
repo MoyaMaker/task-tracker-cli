@@ -2,7 +2,7 @@
 
 Node.js CLI to manage tasks.
 
-This projects is from [roadmap.sh - backend projects](https://roadmap.sh/projects/task-tracker).
+This projects is from [roadmap.sh - Task Tracker](https://roadmap.sh/projects/task-tracker).
 
 ## Use
 
